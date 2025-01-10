@@ -17,4 +17,6 @@ const cambiareImmagine = document.getElementById("immagine1")
 // Cambiamo src immagine
 cambiareImmagine.src = "./img/yellow_lamp.png"
 
+
+
 })
